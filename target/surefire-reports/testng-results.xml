@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="NopCommerce" duration-ms="66976" started-at="2021-09-13T22:28:29 ICT" finished-at="2021-09-13T22:29:36 ICT">
+    <groups>
+    </groups>
+    <test name="Run on Chrome" duration-ms="66976" started-at="2021-09-13T22:28:29 ICT" finished-at="2021-09-13T22:29:36 ICT">
+      <class name="nopCommerce.Test_07_Order">
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:nopCommerce.Test_07_Order@76b0bfab]" name="beforeClass" is-config="true" duration-ms="10790" started-at="2021-09-13T22:28:29 ICT" finished-at="2021-09-13T22:28:39 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="TC_01_Add_Product_to_Cart()[pri:0, instance:nopCommerce.Test_07_Order@76b0bfab]" name="TC_01_Add_Product_to_Cart" duration-ms="12500" started-at="2021-09-13T22:28:39 ICT" finished-at="2021-09-13T22:28:52 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Add_Product_to_Cart -->
+        <test-method status="PASS" signature="TC_02_Edit_Product_in_Shopping_Cart()[pri:0, instance:nopCommerce.Test_07_Order@76b0bfab]" name="TC_02_Edit_Product_in_Shopping_Cart" duration-ms="8446" started-at="2021-09-13T22:28:52 ICT" finished-at="2021-09-13T22:29:00 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02_Edit_Product_in_Shopping_Cart -->
+        <test-method status="PASS" signature="TC_03_Remove_from_Cart()[pri:0, instance:nopCommerce.Test_07_Order@76b0bfab]" name="TC_03_Remove_from_Cart" duration-ms="1878" started-at="2021-09-13T22:29:00 ICT" finished-at="2021-09-13T22:29:02 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03_Remove_from_Cart -->
+        <test-method status="PASS" signature="TC_04_Update_Shopping_Cart()[pri:0, instance:nopCommerce.Test_07_Order@76b0bfab]" name="TC_04_Update_Shopping_Cart" duration-ms="10041" started-at="2021-09-13T22:29:02 ICT" finished-at="2021-09-13T22:29:12 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_04_Update_Shopping_Cart -->
+        <test-method status="PASS" signature="TC_05_Checkout_Order()[pri:0, instance:nopCommerce.Test_07_Order@76b0bfab]" name="TC_05_Checkout_Order" duration-ms="23092" started-at="2021-09-13T22:29:12 ICT" finished-at="2021-09-13T22:29:35 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_05_Checkout_Order -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:nopCommerce.Test_07_Order@76b0bfab]" name="afterClass" is-config="true" duration-ms="205" started-at="2021-09-13T22:29:35 ICT" finished-at="2021-09-13T22:29:35 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- nopCommerce.Test_07_Order -->
+    </test> <!-- Run on Chrome -->
+  </suite> <!-- NopCommerce -->
+</testng-results>

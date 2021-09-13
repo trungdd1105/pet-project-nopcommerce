@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on Chrome"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="55.957">
+  <properties />
+  
+  
+            <testcase name="TC_01_Add_Product_to_Cart" time="12.500" classname="nopCommerce.Test_07_Order" />
+                <testcase name="TC_03_Remove_from_Cart" time="1.878" classname="nopCommerce.Test_07_Order" />
+                <testcase name="TC_04_Update_Shopping_Cart" time="10.041" classname="nopCommerce.Test_07_Order" />
+                <testcase name="TC_05_Checkout_Order" time="23.092" classname="nopCommerce.Test_07_Order" />
+                <testcase name="TC_02_Edit_Product_in_Shopping_Cart" time="8.446" classname="nopCommerce.Test_07_Order" />
+      
+</testsuite>
